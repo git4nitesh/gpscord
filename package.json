@@ -1,0 +1,23 @@
+{
+  "name": "gpscord",
+  "version": "1.0.0",
+  "description": "noDisc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git4nitesh/gpscord.git"
+  },
+  "keywords": [
+    "no",
+    "key"
+  ],
+  "author": "Nitesh Kumar Shaw <nitesh_shaw@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git4nitesh/gpscord/issues"
+  },
+  "homepage": "https://github.com/git4nitesh/gpscord#readme"
+}
