@@ -2,6 +2,7 @@
   "name": "gpscord",
   "description": "bimking kort eg900",
   "scripts": {
+	"start":"node ."
   },
   "env": {
   },
