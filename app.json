@@ -1,0 +1,11 @@
+{
+  "name": "gpscord",
+  "description": "bimking kort eg900",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
